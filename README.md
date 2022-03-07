@@ -13,6 +13,8 @@ Setup: [Windows ONLY]
 
 Die ZIP-Datei "Lernsoftware.zip" herunterladen und öffnen, den Ordner "Lernsoftware" in ein beliebiges Verzeichnis kopieren, den Ordner öffnen und die Datei "LernsoftwareLauncher.exe" öffnen.
 
+
+
 Benutzung:
 
 Wenn wie oben beschrieben, die Datei geöffnet wurde, kann man nun ein Interface erkennen. Man hat nun folgende Möglichkeiten: "Lückentext" -> öffnet den Lückentext ; "Verben konjungieren" -> Dort kann man Verben beugen bzw. konjungieren ; und "About" -> Zeigt Informationen an.
