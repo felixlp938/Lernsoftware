@@ -13,7 +13,7 @@ Setup: [Windows ONLY]
 
 Die ZIP-Datei "Lernsoftware.zip" herunterladen und öffnen, den Ordner "Lernsoftware" in ein beliebiges Verzeichnis kopieren, den Ordner öffnen und die Datei "LernsoftwareLauncher.exe" öffnen.
 
-
+https://github.com/felixlp938/Lernsoftware/blob/main/Lernsoftware.zip  ->> kann über den "Download" Button gedownloadet werden.
 
 Benutzung:
 
